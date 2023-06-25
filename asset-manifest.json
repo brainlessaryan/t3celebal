@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/github.io/t3celebal/static/css/main.f499f042.css",
+    "main.js": "/github.io/t3celebal/static/js/main.4fba7c3c.js",
+    "static/js/787.bbaa4ba3.chunk.js": "/github.io/t3celebal/static/js/787.bbaa4ba3.chunk.js",
+    "static/media/aboutus.jpg": "/github.io/t3celebal/static/media/aboutus.3dc998bf8e19e210139e.jpg",
+    "static/media/undraw_web_developer_re_h7ie.svg": "/github.io/t3celebal/static/media/undraw_web_developer_re_h7ie.387140bec7e1508a737bdcf1c6e45a10.svg",
+    "static/media/cloud-computing.svg": "/github.io/t3celebal/static/media/cloud-computing.b4455fc9a0d84bb06d5b1b800f0f45f5.svg",
+    "static/media/undraw_cloud_hosting_7xb1.svg": "/github.io/t3celebal/static/media/undraw_cloud_hosting_7xb1.573e24a85f68afdd9025fa8ac0808d01.svg",
+    "index.html": "/github.io/t3celebal/index.html",
+    "main.f499f042.css.map": "/github.io/t3celebal/static/css/main.f499f042.css.map",
+    "main.4fba7c3c.js.map": "/github.io/t3celebal/static/js/main.4fba7c3c.js.map",
+    "787.bbaa4ba3.chunk.js.map": "/github.io/t3celebal/static/js/787.bbaa4ba3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f499f042.css",
+    "static/js/main.4fba7c3c.js"
+  ]
+}
